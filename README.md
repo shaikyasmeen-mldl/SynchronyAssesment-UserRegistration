@@ -38,10 +38,10 @@ Delete Image from IMGUR and Dabase based on delete Hash generated while Image up
 http://localhost:8080/synchrony/delete/{deletehash}
 
 ## TECH STACK
-Java 11
-Spring Boot
-REST API using Spring Boot
-Maven Tool
-IMGUR REST API
+1. Java 11
+2. Spring Boot
+3. REST API using Spring Boot
+4. Maven Tool
+5. IMGUR REST API
 
 

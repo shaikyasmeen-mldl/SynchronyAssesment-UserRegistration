@@ -1,4 +1,4 @@
-##### SynchronyAssesment-UserRegistration
+# SynchronyAssesment-UserRegistration
 
 BranchName : master
 

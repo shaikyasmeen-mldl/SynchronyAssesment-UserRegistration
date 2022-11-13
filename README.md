@@ -1,8 +1,8 @@
-### SynchronyAssesment-UserRegistration
+##### SynchronyAssesment-UserRegistration
 
 BranchName : master
 
-# Implementations:
+## Implementations:
 1. Logging using SLF4J 
 2. Lombok annotations are being used to prevent boiler plate code.
 3. SonarQube Quality is being taken care.
@@ -37,7 +37,7 @@ Delete Image from IMGUR and Dabase based on delete Hash generated while Image up
 
 http://localhost:8080/synchrony/delete/{deletehash}
 
-##TECH STACK
+## TECH STACK
 Java 11
 Spring Boot
 REST API using Spring Boot
